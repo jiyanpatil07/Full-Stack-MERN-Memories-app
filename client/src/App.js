@@ -7,6 +7,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Jiyan patil</h1>
         <h1>Jiyan Patil</h1>
+        <h1>Jiyan Patil</h1>
+
         <p>
 
           Edit <code>src/App.js</code> and save to reload.
