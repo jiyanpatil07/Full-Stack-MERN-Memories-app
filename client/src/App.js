@@ -12,6 +12,7 @@ const App =()=>  {
   const classes = useStyles();
   return (
       <Container>
+<h1>Memories App </h1>
           <AppBar className={classes.appBar} position="static" color='inherit'>
             <Typography className={classes.heading}  variant="h2" align='center'>
                 MemoriesApp
